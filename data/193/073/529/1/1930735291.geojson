@@ -1,0 +1,216 @@
+{
+  "id": 1930735291,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2024-08-15",
+    "date:cessation_upper": "2024-08-15",
+    "date:inception_lower": "2024-08-15",
+    "date:inception_upper": "2024-08-15",
+    "edtf:cessation": "2024-08-15T07:09:32-07:00",
+    "edtf:inception": "2024-08-15T07:09:32-07:00",
+    "flysfo:uuid": "2e442552-6833-11e7-907b-a6006ad3dba0",
+    "flysfo:waittime": {
+      "checkpoint_name": "Checkpoint F1",
+      "checkpoint_uuid": "2e442552-6833-11e7-907b-a6006ad3dba0",
+      "current_processing_rate": 1788,
+      "open_screening_queues": 8,
+      "prescreening_queues": [
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 0,
+          "day_time_open": 0,
+          "is_open": "",
+          "max_processing_rate": 0,
+          "screening_queue_name": "",
+          "total_exit_count": 519555
+        },
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 0,
+          "day_time_open": 0,
+          "is_open": "",
+          "max_processing_rate": 0,
+          "screening_queue_name": "",
+          "total_exit_count": 271371
+        }
+      ],
+      "screening_queues": [
+        {
+          "average_time": 2,
+          "current_processing_rate": 1290,
+          "day_pax_count": 512,
+          "day_time_open": 6092,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 1",
+          "total_exit_count": 145585
+        },
+        {
+          "average_time": 2,
+          "current_processing_rate": 1290,
+          "day_pax_count": 329,
+          "day_time_open": 4782,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 2",
+          "total_exit_count": 85964
+        },
+        {
+          "average_time": 32,
+          "current_processing_rate": 1290,
+          "day_pax_count": 45,
+          "day_time_open": 406,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 3",
+          "total_exit_count": 37198
+        },
+        {
+          "average_time": 14,
+          "current_processing_rate": 1650,
+          "day_pax_count": 65,
+          "day_time_open": 708,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 4",
+          "total_exit_count": 38710
+        },
+        {
+          "average_time": 0,
+          "current_processing_rate": 1650,
+          "day_pax_count": 109,
+          "day_time_open": 4468,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 5",
+          "total_exit_count": 58428
+        },
+        {
+          "average_time": 0,
+          "current_processing_rate": 0,
+          "day_pax_count": 324,
+          "day_time_open": 7286,
+          "is_open": "0",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 6",
+          "total_exit_count": 71353
+        },
+        {
+          "average_time": 3,
+          "current_processing_rate": 1650,
+          "day_pax_count": 496,
+          "day_time_open": 11680,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 7",
+          "total_exit_count": 98631
+        },
+        {
+          "average_time": 16,
+          "current_processing_rate": 1650,
+          "day_pax_count": 604,
+          "day_time_open": 15300,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 8",
+          "total_exit_count": 104226
+        },
+        {
+          "average_time": 1,
+          "current_processing_rate": 1650,
+          "day_pax_count": 74,
+          "day_time_open": 880,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 9",
+          "total_exit_count": 76047
+        },
+        {
+          "average_time": 4,
+          "current_processing_rate": 1650,
+          "day_pax_count": 116,
+          "day_time_open": 1260,
+          "is_open": "1",
+          "max_processing_rate": 0,
+          "screening_queue_name": "Lane 10",
+          "total_exit_count": 70384
+        }
+      ],
+      "updated_at": "2024-08-15T07:09:32.773-0700"
+    },
+    "geom:area": 0,
+    "geom:bbox": "-122.386463,37.618300,-122.386463,37.618300",
+    "geom:latitude": 37.61830022056492,
+    "geom:longitude": -122.3864632487797,
+    "mz:is_current": 0,
+    "sfomuseum:placetype": "waittime",
+    "src:geom": 0,
+    "wof:belongsto": [
+      1745882083,
+      102527513,
+      1745882323,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      1745882327,
+      1745882233,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1723730998,
+    "wof:geomhash": "edc94032f252753e653209b394388014",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882323,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1930735291,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745882327,
+        "waittime_id": 1930735291,
+        "wing_id": 1745882233
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882323,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1930735291,
+        "region_id": 85688637,
+        "venue_id": 1745882327,
+        "waittime_id": 1930735291,
+        "wing_id": 1745882233
+      }
+    ],
+    "wof:id": 1930735291,
+    "wof:lastmodified": 1723730998,
+    "wof:name": "Checkpoint F1 wait times (Thu, 15 Aug 2024 07:09:32 -0700)",
+    "wof:parent_id": 1745882327,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "waittime"
+    ],
+    "wof:repo": "sfomuseum-data-checkpoints-2024",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.3864632487797,
+    37.61830022056492,
+    -122.3864632487797,
+    37.61830022056492
+  ],
+  "geometry": {"coordinates":[-122.3864632487797,37.61830022056492],"type":"Point"}
+}
